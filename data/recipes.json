@@ -1,0 +1,1251 @@
+{
+  "data": [
+    {
+      "id": 6084,
+      "name": "Sancocho Canario (Traditional Canary Islands Stew)",
+      "description": "Sancocho Canario is a traditional hearty meat and vegetable stew from the Canary Islands known for its rich flavors and diverse root vegetables.",
+      "difficulty": "medium",
+      "meal_type": "main",
+      "cuisine": "spanish",
+      "dietary_tags": [
+        "gluten_free",
+        "nut_free",
+        "halal",
+        "kosher"
+      ],
+      "servings": 4,
+      "prep_time": 25,
+      "cook_time": 75,
+      "calories_per_serving": 450,
+      "protein": 35,
+      "instructions": [
+        "Cut the beef into large cubes and season with salt and pepper.",
+        "Peel and chop the potatoes, corn on the cob into chunks, yams, and sweet potatoes into large pieces.",
+        "Peel and slice the plantain into thick rounds.",
+        "In a large pot, heat the olive oil over medium heat and brown the beef cubes on all sides.",
+        "Add the chopped garlic and diced onion to the pot and sauté until translucent.",
+        "Pour in the beef broth and bring to a boil, then reduce heat and simmer for about 30 minutes to tenderize the meat.",
+        "Add the chopped potatoes, yams, sweet potatoes, corn chunks, and plantain to the pot.",
+        "Season with ground cumin and bay leaf, and add salt to taste.",
+        "Continue to simmer the stew gently for another 45 minutes or until all the vegetables and meat are tender, stirring occasionally.",
+        "Remove the bay leaf and check seasoning, adjusting with salt or pepper as needed.",
+        "Serve hot, garnished with fresh parsley if desired."
+      ],
+      "ingredients": [
+        {
+          "id": 5,
+          "name": "Olive oil",
+          "category": "oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "optional": false
+        },
+        {
+          "id": 6,
+          "name": "Salt",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "pinch",
+          "optional": false
+        },
+        {
+          "id": 11,
+          "name": "Onion",
+          "category": "vegetable",
+          "quantity": 1,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 37,
+          "name": "Garlic",
+          "category": "vegetable",
+          "quantity": 3,
+          "unit": "clove",
+          "optional": false
+        },
+        {
+          "id": 59,
+          "name": "Cumin",
+          "category": "spice",
+          "quantity": 1,
+          "unit": "tsp",
+          "optional": false
+        },
+        {
+          "id": 66,
+          "name": "Pepper",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "pinch",
+          "optional": false
+        },
+        {
+          "id": 96,
+          "name": "Parsley",
+          "category": "herb",
+          "quantity": 1,
+          "unit": "sprig",
+          "optional": true
+        },
+        {
+          "id": 115,
+          "name": "Beef broth",
+          "category": "other",
+          "quantity": 1,
+          "unit": "l",
+          "optional": false
+        },
+        {
+          "id": 139,
+          "name": "Potato",
+          "category": "vegetable",
+          "quantity": 250,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 176,
+          "name": "Beef",
+          "category": "meat",
+          "quantity": 500,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 221,
+          "name": "Bay leaf",
+          "category": "herb",
+          "quantity": 1,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 450,
+          "name": "Corn on the cob",
+          "category": "vegetable",
+          "quantity": 1,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 606,
+          "name": "Yam",
+          "category": "vegetable",
+          "quantity": 200,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 610,
+          "name": "Sweet potato",
+          "category": "vegetable",
+          "quantity": 200,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 2308,
+          "name": "Plantain",
+          "category": "fruit",
+          "quantity": 1,
+          "unit": "piece",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "id": 6086,
+      "name": "Puchero Canario (Traditional Canary Islands Stew)",
+      "description": "Puchero Canario is a traditional hearty stew from the Canary Islands made with a variety of meats, vegetables, and legumes simmered together to create a flavorful and comforting dish.",
+      "difficulty": "medium",
+      "meal_type": "main",
+      "cuisine": "spanish",
+      "dietary_tags": [
+        "gluten_free",
+        "nut_free"
+      ],
+      "servings": 4,
+      "prep_time": 20,
+      "cook_time": 105,
+      "calories_per_serving": 450,
+      "protein": 38,
+      "instructions": [
+        "Fill a large pot with water and bring it to a boil.",
+        "Add the meat cuts: beef, pork ribs, and chicken, and simmer gently for about 1 hour to create a rich broth.",
+        "Skim off any foam that rises to the surface during simmering to keep the broth clear.",
+        "Add the garbanzo bean, peeled and halved potato, peeled sweet potato, pumpkin pieces, and corn on the cob cut into sections to the pot.",
+        "Season with salt, black pepper, and add a pinch of saffron for flavor and color.",
+        "Continue simmering for another 45 minutes until all vegetables and meat are tender.",
+        "Towards the end, add the green beans and carrot pieces, cooking until just tender.",
+        "Adjust seasoning if needed.",
+        "Serve the stew hot, presenting the broth and ingredients together, allowing diners to enjoy the rich flavors and textures.",
+        "Optionally, sprinkle fresh parsley over the dish before serving."
+      ],
+      "ingredients": [
+        {
+          "id": 6,
+          "name": "Salt",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "tbsp",
+          "optional": false
+        },
+        {
+          "id": 7,
+          "name": "Black pepper",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "tsp",
+          "optional": false
+        },
+        {
+          "id": 80,
+          "name": "Water",
+          "category": "other",
+          "quantity": 2,
+          "unit": "l",
+          "optional": false
+        },
+        {
+          "id": 85,
+          "name": "Pork rib",
+          "category": "meat",
+          "quantity": 300,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 96,
+          "name": "Parsley",
+          "category": "herb",
+          "quantity": 1,
+          "unit": "sprig",
+          "optional": true
+        },
+        {
+          "id": 102,
+          "name": "Chicken thigh",
+          "category": "poultry",
+          "quantity": 300,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 139,
+          "name": "Potato",
+          "category": "vegetable",
+          "quantity": 2,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 151,
+          "name": "Carrot",
+          "category": "vegetable",
+          "quantity": 1,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 465,
+          "name": "Corn cob",
+          "category": "vegetable",
+          "quantity": 1,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 499,
+          "name": "Green bean",
+          "category": "vegetable",
+          "quantity": 100,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 569,
+          "name": "Beef shank",
+          "category": "meat",
+          "quantity": 500,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 610,
+          "name": "Sweet potato",
+          "category": "vegetable",
+          "quantity": 1,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 992,
+          "name": "Pumpkin",
+          "category": "vegetable",
+          "quantity": 200,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 1107,
+          "name": "Saffron",
+          "category": "spice",
+          "quantity": 1,
+          "unit": "pinch",
+          "optional": true
+        },
+        {
+          "id": 2593,
+          "name": "Garbanzo bean",
+          "category": "legume",
+          "quantity": 150,
+          "unit": "g",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "id": 8282,
+      "name": "Noppei Jiru (Thick Vegetable Soup)",
+      "description": "Noppei Jiru is a traditional Japanese thick vegetable soup made with root vegetables and konnyaku in a dashi broth, thickened with potato starch for a comforting texture.",
+      "difficulty": "medium",
+      "meal_type": "soup",
+      "cuisine": "japanese",
+      "dietary_tags": [
+        "vegetarian",
+        "gluten_free",
+        "dairy_free",
+        "nut_free",
+        "halal",
+        "kosher"
+      ],
+      "servings": 4,
+      "prep_time": 15,
+      "cook_time": 30,
+      "calories_per_serving": 120,
+      "protein": 3,
+      "instructions": [
+        "Wash and peel the carrot and daikon radish, then cut them into bite-sized pieces.",
+        "Remove the stalks from the shiitake mushroom and slice the caps thinly.",
+        "Peel and cut the potato into cubes.",
+        "Cut the konnyaku into small pieces and boil briefly to remove odor, then drain.",
+        "Slice the burdock into thin strips and soak in water to remove bitterness.",
+        "Heat the sesame oil in a pot over medium heat, and sauté the carrot, daikon, shiitake, potato, konnyaku, and burdock for a few minutes until slightly tender.",
+        "Add dashi stock to the pot and bring to a boil.",
+        "Reduce heat and simmer until all vegetables are tender, about 15-20 minutes.",
+        "Mix the potato starch with water to make a slurry.",
+        "Gradually add the potato starch slurry to the simmering soup while stirring to thicken the broth.",
+        "Season with soy sauce and salt to taste.",
+        "Serve hot, garnished with chopped mitsuba leaves."
+      ],
+      "ingredients": [
+        {
+          "id": 6,
+          "name": "Salt",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "pinch",
+          "optional": false
+        },
+        {
+          "id": 80,
+          "name": "Water",
+          "category": "other",
+          "quantity": 2,
+          "unit": "tbsp",
+          "optional": false
+        },
+        {
+          "id": 139,
+          "name": "Potato",
+          "category": "vegetable",
+          "quantity": 100,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 151,
+          "name": "Carrot",
+          "category": "vegetable",
+          "quantity": 100,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 177,
+          "name": "Soy sauce",
+          "category": "condiment",
+          "quantity": 2,
+          "unit": "tbsp",
+          "optional": false
+        },
+        {
+          "id": 301,
+          "name": "Sesame oil",
+          "category": "oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "optional": false
+        },
+        {
+          "id": 1247,
+          "name": "Shiitake mushroom",
+          "category": "vegetable",
+          "quantity": 50,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 1587,
+          "name": "Daikon radish",
+          "category": "vegetable",
+          "quantity": 150,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 3215,
+          "name": "Dashi stock",
+          "category": "other",
+          "quantity": 600,
+          "unit": "ml",
+          "optional": false
+        },
+        {
+          "id": 3224,
+          "name": "Mitsuba leaf",
+          "category": "herb",
+          "quantity": 1,
+          "unit": "bunch",
+          "optional": true
+        },
+        {
+          "id": 3231,
+          "name": "Konnyaku",
+          "category": "other",
+          "quantity": 100,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 3239,
+          "name": "Burdock",
+          "category": "vegetable",
+          "quantity": 50,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 3240,
+          "name": "Potato starch",
+          "category": "other",
+          "quantity": 1,
+          "unit": "tbsp",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "BBQ Loaded Baked Potato",
+      "description": "BBQ Loaded Baked Potato is a hearty and flavorful dish featuring baked potatoes topped with barbecue sauce, shredded meat, melted cheese, and fresh garnishes, perfect for a comforting meal.",
+      "difficulty": "medium",
+      "meal_type": "main",
+      "cuisine": "american",
+      "dietary_tags": [
+        "gluten_free",
+        "nut_free"
+      ],
+      "servings": 4,
+      "prep_time": 15,
+      "cook_time": 60,
+      "calories_per_serving": 650,
+      "protein": 35,
+      "instructions": [
+        "Preheat the oven to 200 degrees Celsius (400 degrees Fahrenheit).",
+        "Wash the potatoes thoroughly and prick them several times with a fork.",
+        "Rub the potatoes with olive oil and sprinkle with salt.",
+        "Place the potatoes directly on the oven rack and bake for about 45 to 60 minutes until tender when pierced with a fork.",
+        "While the potatoes bake, heat the barbecue sauce in a small saucepan over low heat.",
+        "Once baked, remove the potatoes from the oven and let them cool slightly.",
+        "Cut a slit lengthwise across the top of each potato and gently squeeze the sides to open them up.",
+        "Fluff the inside of the potatoes with a fork, then spoon in the barbecue sauce.",
+        "Top each potato with cooked and shredded barbecue chicken or pulled pork.",
+        "Sprinkle shredded Cheddar cheese over the meat and potatoes, then return to the oven for 5-7 minutes until the cheese melts.",
+        "Remove from the oven and top with chopped green onion, sour cream, and bacon bits.",
+        "Serve hot as a hearty main dish."
+      ],
+      "ingredients": [
+        {
+          "id": 5,
+          "name": "Olive oil",
+          "category": "oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "optional": false
+        },
+        {
+          "id": 6,
+          "name": "Salt",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "pinch",
+          "optional": false
+        },
+        {
+          "id": 8,
+          "name": "Cheddar cheese",
+          "category": "dairy",
+          "quantity": 200,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 14,
+          "name": "Bacon",
+          "category": "meat",
+          "quantity": 100,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 16,
+          "name": "Barbecue sauce",
+          "category": "condiment",
+          "quantity": 150,
+          "unit": "ml",
+          "optional": false
+        },
+        {
+          "id": 111,
+          "name": "Scallion",
+          "category": "herb",
+          "quantity": 2,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 139,
+          "name": "Potato",
+          "category": "vegetable",
+          "quantity": 4,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 140,
+          "name": "Barbecue chicken",
+          "category": "poultry",
+          "quantity": 300,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 141,
+          "name": "Sour cream",
+          "category": "dairy",
+          "quantity": 100,
+          "unit": "g",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Classic American Beef Stew",
+      "description": "This Classic American Beef Stew is a hearty and comforting dish made with tender beef, root vegetables, and a rich broth slowly simmered to perfection.",
+      "difficulty": "medium",
+      "meal_type": "main",
+      "cuisine": "american",
+      "dietary_tags": [
+        "dairy_free",
+        "gluten_free",
+        "nut_free"
+      ],
+      "servings": 4,
+      "prep_time": 20,
+      "cook_time": 135,
+      "calories_per_serving": 450,
+      "protein": 40,
+      "instructions": [
+        "Cut the beef chuck into bite-sized cubes and pat them dry with paper towels.",
+        "Season the beef cubes with salt and black pepper.",
+        "Heat vegetable oil in a large heavy pot over medium-high heat and brown the beef in batches until all sides are seared. Remove beef and set aside.",
+        "In the same pot, add diced onion, chopped carrot, and chopped celery. Cook until vegetables begin to soften, about 5 minutes.",
+        "Add minced garlic and tomato paste, stirring for one minute until fragrant.",
+        "Pour in beef broth and red wine, scraping the bottom of the pot to loosen browned bits.",
+        "Return the seared beef to the pot. Add bay leaf and thyme sprig.",
+        "Bring the stew to a boil, then reduce heat to low, cover, and simmer for about 1.5 to 2 hours until beef is tender.",
+        "Add peeled and chopped potato and cook uncovered for an additional 30 minutes until potatoes are tender and stew has thickened.",
+        "Remove bay leaf and thyme sprig. Stir in chopped fresh parsley before serving."
+      ],
+      "ingredients": [
+        {
+          "id": 6,
+          "name": "Salt",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "pinch",
+          "optional": false
+        },
+        {
+          "id": 7,
+          "name": "Black pepper",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "pinch",
+          "optional": false
+        },
+        {
+          "id": 11,
+          "name": "Onion",
+          "category": "vegetable",
+          "quantity": 1,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 30,
+          "name": "Vegetable oil",
+          "category": "oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "optional": false
+        },
+        {
+          "id": 37,
+          "name": "Garlic",
+          "category": "vegetable",
+          "quantity": 2,
+          "unit": "clove",
+          "optional": false
+        },
+        {
+          "id": 96,
+          "name": "Parsley",
+          "category": "herb",
+          "quantity": 2,
+          "unit": "tbsp",
+          "optional": false
+        },
+        {
+          "id": 114,
+          "name": "Tomato paste",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "tbsp",
+          "optional": false
+        },
+        {
+          "id": 115,
+          "name": "Beef broth",
+          "category": "other",
+          "quantity": 500,
+          "unit": "ml",
+          "optional": false
+        },
+        {
+          "id": 139,
+          "name": "Potato",
+          "category": "vegetable",
+          "quantity": 3,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 151,
+          "name": "Carrot",
+          "category": "vegetable",
+          "quantity": 2,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 182,
+          "name": "Celery",
+          "category": "vegetable",
+          "quantity": 2,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 197,
+          "name": "Thyme",
+          "category": "herb",
+          "quantity": 1,
+          "unit": "sprig",
+          "optional": false
+        },
+        {
+          "id": 221,
+          "name": "Bay leaf",
+          "category": "herb",
+          "quantity": 1,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 223,
+          "name": "Red wine",
+          "category": "beverage",
+          "quantity": 150,
+          "unit": "ml",
+          "optional": false
+        },
+        {
+          "id": 229,
+          "name": "Beef chuck",
+          "category": "meat",
+          "quantity": 800,
+          "unit": "g",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Corned Beef and Cabbage",
+      "description": "Corned beef and cabbage is a traditional Irish-American dish featuring slow-cooked corned beef brisket served with boiled cabbage, potatoes, and carrots. It is famed for its hearty flavors and tender meat.",
+      "difficulty": "medium",
+      "meal_type": "main",
+      "cuisine": "american",
+      "dietary_tags": [
+        "dairy_free",
+        "gluten_free",
+        "nut_free"
+      ],
+      "servings": 6,
+      "prep_time": 15,
+      "cook_time": 180,
+      "calories_per_serving": 450,
+      "protein": 35,
+      "instructions": [
+        "Rinse the corned beef brisket under cold water and place it in a large pot.",
+        "Add water to the pot until the corned beef is fully submerged.",
+        "Add the spice packet that comes with the corned beef or add your own spices such as peppercorns, bay leaf, and mustard seeds.",
+        "Bring the water to a boil, then reduce the heat to a simmer and cover the pot.",
+        "Cook the corned beef for about 2 and a half to 3 hours until tender.",
+        "About 30 minutes before the corned beef is done, add the peeled and cut potatoes and carrots to the pot.",
+        "Add the cabbage wedges during the last 15 minutes of cooking, allowing it to soften but remain slightly firm.",
+        "Remove the corned beef from the pot and let it rest for 10 minutes before slicing against the grain.",
+        "Serve the sliced corned beef with the cooked cabbage, potatoes, and carrots, spooning some cooking liquid over the top for added flavor."
+      ],
+      "ingredients": [
+        {
+          "id": 80,
+          "name": "Water",
+          "category": "other",
+          "quantity": 3,
+          "unit": "cup",
+          "optional": false
+        },
+        {
+          "id": 139,
+          "name": "Potato",
+          "category": "vegetable",
+          "quantity": 4,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 151,
+          "name": "Carrot",
+          "category": "vegetable",
+          "quantity": 4,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 158,
+          "name": "Corned beef brisket",
+          "category": "meat",
+          "quantity": 1.5,
+          "unit": "kg",
+          "optional": false
+        },
+        {
+          "id": 172,
+          "name": "Cabbage",
+          "category": "vegetable",
+          "quantity": 1,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 221,
+          "name": "Bay leaf",
+          "category": "herb",
+          "quantity": 2,
+          "unit": "piece",
+          "optional": true
+        },
+        {
+          "id": 251,
+          "name": "Peppercorn",
+          "category": "spice",
+          "quantity": 1,
+          "unit": "tbsp",
+          "optional": true
+        },
+        {
+          "id": 252,
+          "name": "Mustard seed",
+          "category": "spice",
+          "quantity": 1,
+          "unit": "tsp",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Corned Beef Hash",
+      "description": "Corned beef hash is a hearty, flavorful dish combining diced corned beef, potatoes, and onions, pan-fried until crispy and golden, commonly served for breakfast or brunch.",
+      "difficulty": "easy",
+      "meal_type": "main",
+      "cuisine": "american",
+      "dietary_tags": [
+        "dairy_free",
+        "gluten_free",
+        "nut_free"
+      ],
+      "servings": 4,
+      "prep_time": 10,
+      "cook_time": 20,
+      "calories_per_serving": 350,
+      "protein": 20,
+      "instructions": [
+        "Heat vegetable oil in a large skillet over medium heat.",
+        "Add finely diced onion and cook until translucent, about 3-4 minutes.",
+        "Add diced cooked potato to the skillet and cook until potatoes begin to brown, about 5-7 minutes.",
+        "Add chopped corned beef and cook, stirring occasionally, until everything is heated through and slightly crispy, about 5 minutes.",
+        "Season with salt and black pepper to taste and stir in chopped fresh parsley if using.",
+        "Serve hot, optionally topped with a fried egg."
+      ],
+      "ingredients": [
+        {
+          "id": 6,
+          "name": "Salt",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "pinch",
+          "optional": false
+        },
+        {
+          "id": 7,
+          "name": "Black pepper",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "pinch",
+          "optional": false
+        },
+        {
+          "id": 11,
+          "name": "Onion",
+          "category": "vegetable",
+          "quantity": 1,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 29,
+          "name": "Egg",
+          "category": "egg",
+          "quantity": 1,
+          "unit": "piece",
+          "optional": true
+        },
+        {
+          "id": 30,
+          "name": "Vegetable oil",
+          "category": "oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "optional": false
+        },
+        {
+          "id": 96,
+          "name": "Parsley",
+          "category": "herb",
+          "quantity": 1,
+          "unit": "bunch",
+          "optional": true
+        },
+        {
+          "id": 139,
+          "name": "Potato",
+          "category": "vegetable",
+          "quantity": 500,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 254,
+          "name": "Corned beef",
+          "category": "meat",
+          "quantity": 400,
+          "unit": "g",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "name": "Poppy Seed Chicken Casserole",
+      "description": "Poppy Seed Chicken Casserole is a creamy, flavorful baked dish featuring shredded chicken mixed with a tangy sauce and topped with crispy potato chips and poppy seeds for a delightful crunch.",
+      "difficulty": "easy",
+      "meal_type": "main",
+      "cuisine": "american",
+      "dietary_tags": [
+        "gluten_free"
+      ],
+      "servings": 6,
+      "prep_time": 15,
+      "cook_time": 30,
+      "calories_per_serving": 380,
+      "protein": 30,
+      "instructions": [
+        "Preheat the oven to 175 degrees Celsius (350 degrees Fahrenheit).",
+        "In a large bowl, combine the cooked shredded chicken, sour cream, cream of chicken soup, mayonnaise, and a pinch of salt and pepper. Mix well until fully combined.",
+        "In a separate bowl, mix the crushed potato chips and poppy seeds together.",
+        "Lightly grease a baking dish with butter or cooking spray.",
+        "Spread the chicken mixture evenly in the prepared baking dish.",
+        "Sprinkle the potato chip and poppy seed mixture evenly over the top of the chicken mixture.",
+        "Bake in the preheated oven for 25 to 30 minutes, or until the topping is golden brown and the casserole is heated through.",
+        "Remove from the oven and let it cool slightly before serving."
+      ],
+      "ingredients": [
+        {
+          "id": 6,
+          "name": "Salt",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "pinch",
+          "optional": true
+        },
+        {
+          "id": 13,
+          "name": "Mayonnaise",
+          "category": "condiment",
+          "quantity": 0.5,
+          "unit": "cup",
+          "optional": false
+        },
+        {
+          "id": 66,
+          "name": "Pepper",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "pinch",
+          "optional": true
+        },
+        {
+          "id": 141,
+          "name": "Sour cream",
+          "category": "dairy",
+          "quantity": 1,
+          "unit": "cup",
+          "optional": false
+        },
+        {
+          "id": 282,
+          "name": "Cooked chicken",
+          "category": "poultry",
+          "quantity": 3,
+          "unit": "cup",
+          "optional": false
+        },
+        {
+          "id": 289,
+          "name": "Cream of chicken soup",
+          "category": "other",
+          "quantity": 1,
+          "unit": "can",
+          "optional": false
+        },
+        {
+          "id": 338,
+          "name": "Potato chip",
+          "category": "vegetable",
+          "quantity": 2,
+          "unit": "cup",
+          "optional": false
+        },
+        {
+          "id": 339,
+          "name": "Poppy seed",
+          "category": "nut",
+          "quantity": 2,
+          "unit": "tbsp",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Pork Green Chile Stew",
+      "description": "Pork green chile stew is a hearty and spicy southwestern dish featuring tender pork cooked with fresh green chiles, potatoes, and savory spices in a flavorful broth.",
+      "difficulty": "medium",
+      "meal_type": "main",
+      "cuisine": "american",
+      "dietary_tags": [
+        "dairy_free",
+        "gluten_free",
+        "nut_free"
+      ],
+      "servings": 4,
+      "prep_time": 20,
+      "cook_time": 60,
+      "calories_per_serving": 350,
+      "protein": 30,
+      "instructions": [
+        "Cut the pork shoulder into bite-sized cubes and season with salt and pepper.",
+        "Heat vegetable oil in a large pot over medium-high heat and brown the pork pieces on all sides. Remove the pork and set aside.",
+        "In the same pot, add chopped onion and garlic, sauté until softened and fragrant.",
+        "Add the chopped green chiles and cook for a couple of minutes to release their flavor.",
+        "Return the browned pork to the pot, pour in the chicken broth, and add diced potatoes and cumin.",
+        "Bring the stew to a boil, then reduce heat and simmer for about 1 hour or until the pork is tender and potatoes are cooked through.",
+        "Taste and adjust seasoning with salt and pepper if needed.",
+        "Serve the stew hot, garnished with fresh chopped cilantro if desired."
+      ],
+      "ingredients": [
+        {
+          "id": 6,
+          "name": "Salt",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "pinch",
+          "optional": false
+        },
+        {
+          "id": 11,
+          "name": "Onion",
+          "category": "vegetable",
+          "quantity": 1,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 30,
+          "name": "Vegetable oil",
+          "category": "oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "optional": false
+        },
+        {
+          "id": 37,
+          "name": "Garlic",
+          "category": "vegetable",
+          "quantity": 2,
+          "unit": "clove",
+          "optional": false
+        },
+        {
+          "id": 38,
+          "name": "Cilantro",
+          "category": "herb",
+          "quantity": 1,
+          "unit": "bunch",
+          "optional": true
+        },
+        {
+          "id": 59,
+          "name": "Cumin",
+          "category": "spice",
+          "quantity": 1,
+          "unit": "tsp",
+          "optional": false
+        },
+        {
+          "id": 61,
+          "name": "Pork shoulder",
+          "category": "meat",
+          "quantity": 500,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 66,
+          "name": "Pepper",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "pinch",
+          "optional": false
+        },
+        {
+          "id": 139,
+          "name": "Potato",
+          "category": "vegetable",
+          "quantity": 2,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 257,
+          "name": "Chicken broth",
+          "category": "other",
+          "quantity": 1,
+          "unit": "cup",
+          "optional": false
+        },
+        {
+          "id": 524,
+          "name": "Green chili",
+          "category": "vegetable",
+          "quantity": 3,
+          "unit": "piece",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "name": "Manhattan Clam Chowder",
+      "description": "Manhattan clam chowder is a tomato-based seafood soup featuring clams, potatoes, and aromatic vegetables, originating from the United States' East Coast.",
+      "difficulty": "medium",
+      "meal_type": "soup",
+      "cuisine": "american",
+      "dietary_tags": [
+        "dairy_free",
+        "gluten_free",
+        "nut_free"
+      ],
+      "servings": 4,
+      "prep_time": 15,
+      "cook_time": 25,
+      "calories_per_serving": 180,
+      "protein": 12,
+      "instructions": [
+        "In a large pot, heat olive oil over medium heat and sauté chopped onion, celery, and carrot until softened.",
+        "Add minced garlic and cook for another minute until fragrant.",
+        "Pour in clam juice and add diced tomatoes with their juice, bring to a simmer.",
+        "Add peeled and diced potatoes and cook until tender, about 15 minutes.",
+        "Add chopped clams along with their liquor and season with salt, pepper, and dried thyme.",
+        "Simmer for another 5 minutes to combine flavors.",
+        "Ladle chowder into bowls and garnish with chopped parsley before serving."
+      ],
+      "ingredients": [
+        {
+          "id": 5,
+          "name": "Olive oil",
+          "category": "oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "optional": false
+        },
+        {
+          "id": 6,
+          "name": "Salt",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "pinch",
+          "optional": false
+        },
+        {
+          "id": 7,
+          "name": "Black pepper",
+          "category": "condiment",
+          "quantity": 1,
+          "unit": "pinch",
+          "optional": false
+        },
+        {
+          "id": 11,
+          "name": "Onion",
+          "category": "vegetable",
+          "quantity": 1,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 37,
+          "name": "Garlic",
+          "category": "vegetable",
+          "quantity": 2,
+          "unit": "clove",
+          "optional": false
+        },
+        {
+          "id": 87,
+          "name": "Dried thyme",
+          "category": "spice",
+          "quantity": 1,
+          "unit": "tsp",
+          "optional": false
+        },
+        {
+          "id": 96,
+          "name": "Parsley",
+          "category": "herb",
+          "quantity": 1,
+          "unit": "bunch",
+          "optional": true
+        },
+        {
+          "id": 139,
+          "name": "Potato",
+          "category": "vegetable",
+          "quantity": 3,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 142,
+          "name": "Diced tomato",
+          "category": "vegetable",
+          "quantity": 400,
+          "unit": "g",
+          "optional": false
+        },
+        {
+          "id": 151,
+          "name": "Carrot",
+          "category": "vegetable",
+          "quantity": 1,
+          "unit": "piece",
+          "optional": false
+        },
+        {
+          "id": 182,
+          "name": "Celery",
+          "category": "vegetable",
+          "quantity": 2,
+          "unit": "slice",
+          "optional": false
+        },
+        {
+          "id": 398,
+          "name": "Clam juice",
+          "category": "other",
+          "quantity": 500,
+          "unit": "ml",
+          "optional": false
+        },
+        {
+          "id": 399,
+          "name": "Clam",
+          "category": "seafood",
+          "quantity": 300,
+          "unit": "g",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "links": {
+    "first": "https://recipeapi.io/api/v1/recipes?ingredients=potato&page=1",
+    "last": "https://recipeapi.io/api/v1/recipes?ingredients=potato&page=73",
+    "prev": null,
+    "next": "https://recipeapi.io/api/v1/recipes?ingredients=potato&page=2"
+  },
+  "meta": {
+    "current_page": 1,
+    "last_page": 73,
+    "path": "https://recipeapi.io/api/v1/recipes",
+    "per_page": 10,
+    "total": 727,
+    "language": "en"
+  }
+}

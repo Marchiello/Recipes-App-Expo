@@ -1,0 +1,429 @@
+{
+  "albums": [
+    {
+      "cover": "https://coverartarchive.org/release/e50db768-4e13-4c8e-b545-ad6633949800/34654200492-500.jpg",
+      "name": "Ben",
+      "track_count": 15,
+      "tracks": [
+        {
+          "duration": "4:31",
+          "duration_ms": 270640,
+          "title": "Chant"
+        },
+        {
+          "duration": "2:53",
+          "duration_ms": 173453,
+          "title": "No Bad Days"
+        },
+        {
+          "duration": "3:24",
+          "duration_ms": 204080,
+          "title": "1984"
+        },
+        {
+          "duration": "3:01",
+          "duration_ms": 180906,
+          "title": "Maniac"
+        },
+        {
+          "duration": "3:13",
+          "duration_ms": 192813,
+          "title": "Day You Die"
+        },
+        {
+          "duration": "2:56",
+          "duration_ms": 175946,
+          "title": "Heroes"
+        },
+        {
+          "duration": "3:26",
+          "duration_ms": 205800,
+          "title": "Grime"
+        },
+        {
+          "duration": "3:39",
+          "duration_ms": 219320,
+          "title": "I Need"
+        },
+        {
+          "duration": "5:51",
+          "duration_ms": 351026,
+          "title": "Lost/Sun Comes Up"
+        },
+        {
+          "duration": "3:28",
+          "duration_ms": 207800,
+          "title": "Faithful"
+        },
+        {
+          "duration": "3:14",
+          "duration_ms": 193560,
+          "title": "Tears"
+        },
+        {
+          "duration": "3:30",
+          "duration_ms": 209693,
+          "title": "Sorry"
+        },
+        {
+          "duration": "3:13",
+          "duration_ms": 193426,
+          "title": "God’s Will"
+        },
+        {
+          "duration": "2:53",
+          "duration_ms": 173266,
+          "title": "I Know"
+        },
+        {
+          "duration": "4:51",
+          "duration_ms": 290586,
+          "title": "Taillights"
+        }
+      ],
+      "year": 2023
+    },
+    {
+      "cover": "http://coverartarchive.org/release/9fe58779-521d-4f90-a900-3ac52bbaa556/17594549105-500.jpg",
+      "name": "Gemini",
+      "track_count": 16,
+      "tracks": [
+        {
+          "duration": "3:35",
+          "duration_ms": 215000,
+          "title": "Ain’t Gonna Die Tonight"
+        },
+        {
+          "duration": "3:42",
+          "duration_ms": 222000,
+          "title": "Glorious"
+        },
+        {
+          "duration": "4:24",
+          "duration_ms": 264000,
+          "title": "Marmalade"
+        },
+        {
+          "duration": "3:42",
+          "duration_ms": 222000,
+          "title": "Willy Wonka"
+        },
+        {
+          "duration": "3:50",
+          "duration_ms": 230000,
+          "title": "Intentions"
+        },
+        {
+          "duration": "4:00",
+          "duration_ms": 240000,
+          "title": "Good Old Days"
+        },
+        {
+          "duration": "3:32",
+          "duration_ms": 212000,
+          "title": "Levitate"
+        },
+        {
+          "duration": "3:25",
+          "duration_ms": 205000,
+          "title": "Firebreather"
+        },
+        {
+          "duration": "3:28",
+          "duration_ms": 208000,
+          "title": "How to Play the Flute"
+        },
+        {
+          "duration": "2:59",
+          "duration_ms": 179000,
+          "title": "Ten Million"
+        },
+        {
+          "duration": "3:38",
+          "duration_ms": 218000,
+          "title": "Over It"
+        },
+        {
+          "duration": "3:37",
+          "duration_ms": 217000,
+          "title": "Zara"
+        },
+        {
+          "duration": "4:33",
+          "duration_ms": 273000,
+          "title": "Corner Store"
+        },
+        {
+          "duration": "3:44",
+          "duration_ms": 224000,
+          "title": "Miracle"
+        },
+        {
+          "duration": "4:10",
+          "duration_ms": 250000,
+          "title": "Church"
+        },
+        {
+          "duration": "3:58",
+          "duration_ms": 238000,
+          "title": "Excavate"
+        }
+      ],
+      "year": 2017
+    },
+    {
+      "cover": "http://coverartarchive.org/release/b7a0fb6f-d990-48dd-9aa7-952823ee800b/15672863997-500.jpg",
+      "name": "Love Not War",
+      "track_count": 12,
+      "tracks": [
+        {
+          "duration": "3:33",
+          "duration_ms": 213000,
+          "title": "Put Um Up"
+        },
+        {
+          "duration": "4:09",
+          "duration_ms": 249000,
+          "title": "All Up in the Club"
+        },
+        {
+          "duration": "3:52",
+          "duration_ms": 232000,
+          "title": "Blazin High"
+        },
+        {
+          "duration": "3:28",
+          "duration_ms": 208000,
+          "title": "Kew Kuts"
+        },
+        {
+          "duration": "4:05",
+          "duration_ms": 245000,
+          "title": "A Good Time"
+        },
+        {
+          "duration": "4:44",
+          "duration_ms": 284000,
+          "title": "Hey"
+        },
+        {
+          "duration": "5:07",
+          "duration_ms": 307000,
+          "title": "Othaside"
+        },
+        {
+          "duration": "2:49",
+          "duration_ms": 169000,
+          "title": "Inhale"
+        },
+        {
+          "duration": "2:49",
+          "duration_ms": 169000,
+          "title": "How I Feel"
+        },
+        {
+          "duration": "3:40",
+          "duration_ms": 220000,
+          "title": "More Bars"
+        },
+        {
+          "duration": "4:20",
+          "duration_ms": 260000,
+          "title": "Privileges"
+        },
+        {
+          "duration": "5:30",
+          "duration_ms": 330000,
+          "title": "Our Town"
+        }
+      ],
+      "year": 2015
+    },
+    {
+      "cover": null,
+      "name": "For My People",
+      "track_count": 12,
+      "tracks": [
+        {
+          "duration": "3:35",
+          "duration_ms": 215240,
+          "title": "Victory Lap"
+        },
+        {
+          "duration": "4:36",
+          "duration_ms": 276160,
+          "title": "At the Party"
+        },
+        {
+          "duration": "3:29",
+          "duration_ms": 208613,
+          "title": "Krew Kutz"
+        },
+        {
+          "duration": "3:49",
+          "duration_ms": 228573,
+          "title": "Blazing High"
+        },
+        {
+          "duration": "3:25",
+          "duration_ms": 204706,
+          "title": "This Is Epic"
+        },
+        {
+          "duration": "4:42",
+          "duration_ms": 282093,
+          "title": "Irish Celebration"
+        },
+        {
+          "duration": "4:50",
+          "duration_ms": 289720,
+          "title": "Kingz"
+        },
+        {
+          "duration": "4:10",
+          "duration_ms": 249520,
+          "title": "Da Klub"
+        },
+        {
+          "duration": "5:08",
+          "duration_ms": 308306,
+          "title": "The Otha Side"
+        },
+        {
+          "duration": "3:41",
+          "duration_ms": 221453,
+          "title": "Vipassana"
+        },
+        {
+          "duration": "5:29",
+          "duration_ms": 329266,
+          "title": "The Town"
+        },
+        {
+          "duration": "6:25",
+          "duration_ms": 385346,
+          "title": "Ending"
+        }
+      ],
+      "year": 2014
+    },
+    {
+      "cover": "http://coverartarchive.org/release/99581d8c-4572-4413-a6ab-97f7a2c80930/34548568873-500.jpg",
+      "name": "The Language of My World",
+      "track_count": 20,
+      "tracks": [
+        {
+          "duration": "0:52",
+          "duration_ms": 52000,
+          "title": "Intro"
+        },
+        {
+          "duration": "4:23",
+          "duration_ms": 263000,
+          "title": "White Privilege"
+        },
+        {
+          "duration": "2:49",
+          "duration_ms": 169000,
+          "title": "B‐Boy"
+        },
+        {
+          "duration": "4:30",
+          "duration_ms": 270000,
+          "title": "Claiming the City"
+        },
+        {
+          "duration": "2:35",
+          "duration_ms": 155000,
+          "title": "Fake ID"
+        },
+        {
+          "duration": "4:25",
+          "duration_ms": 265000,
+          "title": "Hold Your Head Up"
+        },
+        {
+          "duration": "2:51",
+          "duration_ms": 171000,
+          "title": "Ego"
+        },
+        {
+          "duration": "2:51",
+          "duration_ms": 171000,
+          "title": "Inhale Deep"
+        },
+        {
+          "duration": "2:54",
+          "duration_ms": 174000,
+          "title": "Bush Song"
+        },
+        {
+          "duration": "4:04",
+          "duration_ms": 244000,
+          "title": "Good for You"
+        },
+        {
+          "duration": "4:46",
+          "duration_ms": 286000,
+          "title": "I Said Hey"
+        },
+        {
+          "duration": "3:36",
+          "duration_ms": 216000,
+          "title": "Penis Song"
+        },
+        {
+          "duration": "4:25",
+          "duration_ms": 265000,
+          "title": "The Magic"
+        },
+        {
+          "duration": "3:33",
+          "duration_ms": 213000,
+          "title": "City Don’t Sleep"
+        },
+        {
+          "duration": "4:26",
+          "duration_ms": 266000,
+          "title": "Love Song"
+        },
+        {
+          "duration": "4:11",
+          "duration_ms": 251000,
+          "title": "Remember High School"
+        },
+        {
+          "duration": "4:31",
+          "duration_ms": 271000,
+          "title": "Contradiction"
+        },
+        {
+          "duration": "4:49",
+          "duration_ms": 289000,
+          "title": "Soldiers"
+        },
+        {
+          "duration": "3:49",
+          "duration_ms": 229000,
+          "title": "As Soon as I Wake Up"
+        },
+        {
+          "duration": "3:57",
+          "duration_ms": 237000,
+          "title": "My Language"
+        }
+      ],
+      "year": 2005
+    }
+  ],
+  "genres": [
+    "hip hop",
+    "conscious hip hop",
+    "pop rap",
+    "west coast hip hop"
+  ],
+  "mbid": "b6d7ec94-830c-44dd-b699-ce66556b7e55",
+  "name": "Macklemore",
+  "nationality": "United States",
+  "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Macklemore_Ryan_Lewis_Live_2016_(cropped).jpg"
+}
