@@ -1,24 +1,20 @@
 import recipes from '@/data/recipes.json'
-import { useLocalSearchParams } from 'expo-router'
-import { FlatList, StyleSheet } from 'react-native'
+import { Stack, useLocalSearchParams } from 'expo-router'
+import { ScrollView, StyleSheet } from 'react-native'
 
-import AlbumHeader from '@/components/AlbumHeader'
-import RecipeIngredients from '@/components/RecipeIngredients'
+import MeatHeader from '@/components/MeatHeader'
 
 export default function AlbumScreen() {
     const params = useLocalSearchParams()
     const recipe = recipes.data[Number(params.id)]
 
     return (
-        <FlatList
-            style={styles.container}
-            data={recipe.ingredients}
-            keyExtractor={(item, index) => String(index)}
-            ListHeaderComponent={<AlbumHeader recipeName={recipe.name} recipe={recipe} /> }
-            renderItem={({ item, index }) => (
-                <RecipeIngredients ingredients={item} index={index} />
-            )}
-        />
+        <>
+            <Stack.Screen options={{ title: recipe.name }} />
+            <ScrollView style={styles.container}>
+                <MeatHeader recipeName={recipe.name} recipe={recipe} />
+            </ScrollView>
+        </>
     )
 }
 

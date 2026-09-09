@@ -1,5 +1,6 @@
 import { useRouter } from 'expo-router';
 import { FlatList, StyleSheet } from 'react-native';
+import { useState } from 'react';
 
 import RecipeHeader from '@/components/RecipeHeader';
 import RecipeListItem from '@/components/RecipeListItem';
@@ -11,6 +12,7 @@ export default function HomeScreen() {
 	// Lógica
 	const router = useRouter()
 	const insets = useSafeAreaInsets()
+	const [search, setSearch] = useState("");
 
 	function gotoRecipe(index) {
 		router.push({
@@ -19,16 +21,21 @@ export default function HomeScreen() {
 		})
 	}
 
+	const filteredRecipes = recipe.data.filter(r => 
+		r.name.toLowerCase().includes(search.toLowerCase())
+	);
+
 	return ( // Visual
 		<FlatList
 			style={styles.container}
 			contentContainerStyle={{ paddingTop: insets.top, paddingBottom: insets.bottom }}
-			data={recipe.data}
-			keyExtractor={(item, index) => String(index)}
-			ListHeaderComponent={<RecipeHeader artist={recipe} />}
-			renderItem={({item, index}) => (
-				<RecipeListItem recipe={item} onPress={() => gotoRecipe(index)} />
-			)}
+			data={filteredRecipes}
+			keyExtractor={(item, index) => String(item.id)}
+			ListHeaderComponent={<RecipeHeader search={search} onSearchChange={setSearch} />}
+			renderItem={({item}) => {
+				const originalIndex = recipe.data.findIndex(r => r.id === item.id);
+				return <RecipeListItem recipe={item} onPress={() => gotoRecipe(originalIndex)} />
+			}}
 		/>
 	);
 }

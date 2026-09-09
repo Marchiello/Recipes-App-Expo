@@ -1,44 +1,48 @@
+import { Image } from 'expo-image';
 import { CaretRightIcon } from 'phosphor-react-native';
 import { Pressable, StyleSheet, Text, View } from "react-native";
-
+import { imageMap } from '../utils/imageMap';
 
 export default function RecipeListItem({ recipe, onPress }) {
     return (
-        <Pressable
-            style={({ pressed }) => [styles.row, pressed && styles.rowPressed]} /* hover no css */
-            onPress={onPress}
-        >
-            <View style={styles.info} onPress={onPress}>
-                {/* <Image source={{ uri: "" }} style={styles.cover} contentFit="cover" /> */}
-                <View style={styles.imgPlaceholder}></View>
+        <View style={styles.row}>
+            <Pressable
+                style={({ pressed }) => [styles.info, pressed && styles.rowPressed]}
+                onPress={onPress}
+            >
+                {recipe.image_path ? (
+                    <Image source={imageMap[recipe.image_path]} style={styles.cover} contentFit="cover" />
+                ) : (
+                    <View style={styles.imgPlaceholder}></View>
+                )}
                 <Text style={styles.name}>
                     {recipe.name}
                 </Text>
-                <CaretRightIcon style={{color: 'black', width: 32, height: 32, marginLeft: 24 }}>
-                    
-                </CaretRightIcon>
-                <Text style={styles.year}>{recipe.year}</Text>
-            </View>
-        </Pressable>
+                <CaretRightIcon style={{color: 'black', width: 32, height: 32, marginLeft: 24 }} />
+            </Pressable>
+        </View>
     )
 }
 
-
 const styles = StyleSheet.create({
     row: {
+        flex: 1,
         flexDirection: 'row',
-        alignItems: 'center',
-        paddingHorizontal: 24,
-        paddingVertical: 10
+        margin: 'auto',
+        // paddingHorizontal: 24,
+        // paddingVertical: 10,
+        width: 338,
+        marginTop: 24,
     },
     rowPressed: {
-        backgroundColor: '#1a1a1a'
+        backgroundColor: '#e6e6e6'
     },
     cover: {
         width: 56,
         height: 56,
         borderRadius: 4,
-        backgroundColor: '#282828'
+        backgroundColor: '#282828',
+        margin: 16,
     },
     info: {
         width: 338,
@@ -50,7 +54,6 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         alignContent: 'center',
         alignItems: 'center',
-        color: 'black',
     },
     name: {
         color: '#020000',

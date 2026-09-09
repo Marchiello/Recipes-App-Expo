@@ -152,7 +152,9 @@
           "unit": "piece",
           "optional": false
         }
-      ]
+      ],
+      "image": "@/assets/images/Sancocho_Canario.png",
+      "image_path": "assets/images/Sancocho_Canario.png"
     },
     {
       "id": 6086,
@@ -303,7 +305,9 @@
           "unit": "g",
           "optional": false
         }
-      ]
+      ],
+      "image": "@/assets/images/Puchero_Canario.png",
+      "image_path": "assets/images/Puchero_Canario.png"
     },
     {
       "id": 8282,
@@ -444,7 +448,9 @@
           "unit": "tbsp",
           "optional": false
         }
-      ]
+      ],
+      "image": "@/assets/images/Noppei_Jiru.png",
+      "image_path": "assets/images/Noppei_Jiru.png"
     },
     {
       "id": 77,
@@ -549,7 +555,9 @@
           "unit": "g",
           "optional": false
         }
-      ]
+      ],
+      "image": "@/assets/images/BBQ_Loaded_Baked_Potato.png",
+      "image_path": "assets/images/BBQ_Loaded_Baked_Potato.png"
     },
     {
       "id": 140,
@@ -701,7 +709,9 @@
           "unit": "g",
           "optional": false
         }
-      ]
+      ],
+      "image": "@/assets/images/Classic_American_Beef_Stew.png",
+      "image_path": "assets/images/Classic_American_Beef_Stew.png"
     },
     {
       "id": 156,
@@ -796,7 +806,9 @@
           "unit": "tsp",
           "optional": true
         }
-      ]
+      ],
+      "image": "@/assets/images/Corned_Beef_and_Cabbage.png",
+      "image_path": "assets/images/Corned_Beef_and_Cabbage.png"
     },
     {
       "id": 158,
@@ -888,7 +900,9 @@
           "unit": "g",
           "optional": false
         }
-      ]
+      ],
+      "image": "@/assets/images/Corned_Beef_Hash.png",
+      "image_path": "assets/images/Corned_Beef_Hash.png"
     },
     {
       "id": 227,
@@ -980,7 +994,9 @@
           "unit": "tbsp",
           "optional": false
         }
-      ]
+      ],
+      "image": "@/assets/images/Poppy_Seed_Chicken_Casserole.png",
+      "image_path": "assets/images/Poppy_Seed_Chicken_Casserole.png"
     },
     {
       "id": 241,
@@ -1098,7 +1114,9 @@
           "unit": "piece",
           "optional": false
         }
-      ]
+      ],
+      "image": "@/assets/images/Pork_Green_Chile_Stew.png",
+      "image_path": "assets/images/Pork_Green_Chile_Stew.png"
     },
     {
       "id": 279,
@@ -1231,7 +1249,9 @@
           "unit": "g",
           "optional": false
         }
-      ]
+      ],
+      "image": "@/assets/images/Manhattan_Clam_Chowder.png",
+      "image_path": "assets/images/Manhattan_Clam_Chowder.png"
     }
   ],
   "links": {
