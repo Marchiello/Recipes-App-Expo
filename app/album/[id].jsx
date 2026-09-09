@@ -1,22 +1,22 @@
-import artist from '@/data/artist.json'
+import recipes from '@/data/recipes.json'
 import { useLocalSearchParams } from 'expo-router'
 import { FlatList, StyleSheet } from 'react-native'
 
 import AlbumHeader from '@/components/AlbumHeader'
-import TrackListItem from '@/components/TrackListItem'
+import RecipeIngredients from '@/components/RecipeIngredients'
 
 export default function AlbumScreen() {
     const params = useLocalSearchParams()
-    const album = artist.albums[Number(params.id)]
+    const recipe = recipes.data[Number(params.id)]
 
     return (
         <FlatList
             style={styles.container}
-            data={album.tracks}
+            data={recipe.ingredients}
             keyExtractor={(item, index) => String(index)}
-            ListHeaderComponent={<AlbumHeader artist={artist.name} album={album} /> }
+            ListHeaderComponent={<AlbumHeader recipeName={recipe.name} recipe={recipe} /> }
             renderItem={({ item, index }) => (
-                <TrackListItem track={item} index={index} />
+                <RecipeIngredients ingredients={item} index={index} />
             )}
         />
     )

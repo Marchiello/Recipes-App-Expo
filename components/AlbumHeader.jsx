@@ -1,16 +1,31 @@
-import { Image } from "expo-image";
+import { ClockIcon, UserIcon } from 'phosphor-react-native';
 import { StyleSheet, Text, View } from "react-native";
 
-export default function AlbumHeader({ artist, album }) {
+export default function AlbumHeader({ recipeName, recipe }) {
     return (
         <View style={styles.header}>
-            <Image source={{ uri: album.cover }} style={styles.cover} contentFit="cover" />
-            <Text style={styles.albumName}>{album.name}</Text>
-            <Text style={styles.artistName}>{artist}</Text>
-            <Text style={styles.info}>
-                {album.year} - {album.track_count} faixas
+            <View style={styles.imgPlaceholder}></View>
+            {/* <Image source={{ uri: album.cover }} style={styles.cover} contentFit="cover" /> */}
+            <Text style={styles.recipeName}>{recipe.name}</Text>
+            <Text style={styles.details}>
+                {recipe.description}
             </Text>
-            <Text style={styles.sectionTitle}>Faixas</Text>
+
+            <Text style={styles.recipeInfo}>
+                Serve {recipe.servings} pessoa(s)<UserIcon style={styles.icon}/>
+            </Text>
+
+            <Text style={styles.recipeInfo}>
+                Tempo de Preparo: {recipe.prep_time + recipe.cook_time} min(s) <br />{recipe.prep_time} min. preparo e {recipe.cook_time} min. cozimento<ClockIcon/>
+            </Text>
+
+            <Text style={styles.recipeInfo}>
+                Calorias: {recipe.calories_per_serving} p/Porção
+            </Text>
+
+            <Text style={styles.recipeInfo}>
+                Lista de Ingredientes:
+            </Text>
         </View>
     )
 }
@@ -29,26 +44,37 @@ const styles = StyleSheet.create({
         marginBottom: 16,
         backgroundColor: '#282828'
     },
-    albumName: {
-        color: '#ffffff',
-        fontSize: 24,
+    imgPlaceholder: {
+        width: 144,
+        height: 144,
+        borderBlockColor: 'black',
+        borderWidth: 2,
+        borderRadius: 8,
+        margin: 16
+    },
+    recipeName: {
+        fontSize: 16,
         fontWeight: '700',
-        textAlign: 'center'
+        textAlign: 'center',
+        marginBottom: 16
     },
-    artistName: {
-        color: '#ffffff',
-        fontSize: 15,
-        fontWeight: '600',
-        marginTop: 8,
+    recipeInfo: {
+        fontSize: 16,
+        fontWeight: '700',
+        textAlign: 'center',
+        marginBottom: 12
     },
-    info: {
-        color: '#b3b3b3',
-        fontSize: 13,
-        marginTop: 4,
-        textAlign: 'center'
+
+    details: {
+        fontSize: 16,
+        textAlign: 'center',
+        marginBottom: 24
+    },
+    icon: {
+        // backgroundColor: 'blue',
+        width: 20,
     },
     sectionTitle: {
-        color: '#ffffff',
         fontSize: 18,
         fontWeight: '700',
         alignSelf: 'flex-start',

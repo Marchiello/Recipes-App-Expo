@@ -1,17 +1,16 @@
-import { Image } from "expo-image";
-import { StyleSheet, Text, View, TextInput} from "react-native";
+import { StyleSheet, Text, TextInput, View } from "react-native";
 
 
-export default function ArtistHeader({ artist }) {
+export default function RecipeHeader({ artist }) {
 
     return (
         <View style={styles.header}>
 
-            <TextInput style={styles.textInput} placeholder="Buscar Receita" placeholderTextColor={"#9999"}>
+            <TextInput style={styles.textInput} placeholder="Buscar receita" placeholderTextColor={"#9999"}>
                 
             </TextInput>
 
-            <Image source={{ uri: artist.photo }} style={styles.photo} contentFit="cover" />
+            {/* <Image source={{ uri: artist.photo }} style={styles.photo} contentFit="cover" /> */}
             <Text style={styles.name}>{artist.name}</Text>
             <Text style={styles.subtitle}>
                 {artist.nationality} - {}
@@ -34,9 +33,9 @@ const styles = StyleSheet.create({
         borderWidth: 2,
         borderRadius: 8,
         marginTop: 16,
-        marginBottom: 24,
         alignContent: 'center',
         alignItems: 'center',
+        padding: 20,
         
     },
     photo: {
